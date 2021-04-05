@@ -1,7 +1,5 @@
 ### Hi there 👋I'm Meet Ved
 
-<!--
-**meet-ved001/meet-ved001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👨💻 About Me
 🔭   I’m currently learning frontend development from @neogcamp and @freecodecamp.
 🤔   Want to learn more front-end especially using react.
