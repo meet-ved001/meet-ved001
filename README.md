@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Meet Ved
 
 👨💻 **About Me**  
-🔭 I’m currently pursuing a Master’s in Applied Modeling - Big Data Analytics at Trent University.  
+🔭 Master’s degree in Applied Modelling - Big Data Analytics at Trent University.  
 🤔 Actively learning advanced data analysis techniques and cloud computing technologies.  
-💼 Passionate about leveraging data analytics, machine learning, and visualization to solve real-world problems.  
+💼 Passionate about leveraging data analytics, machine learning, and visualisation to solve real-world problems.  
 ✍️ I enjoy playing cricket, volleyball, and exploring new technologies in my free time.  
 
 🛠 **Tech Stack**  
